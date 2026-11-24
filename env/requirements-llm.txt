@@ -1,0 +1,16 @@
+# Language model labs (Part V and LLM sections), a separate environment from requirements.txt
+# because TransformerLens 2.x needs numpy<2. Python 3.10, CPU. Checked 2026-11-24.
+# TransformerLens 4.x removed HookedTransformer; these labs use the 2.x API.
+einops==0.8.2
+ipykernel==7.3.0
+jaxtyping==0.3.7
+matplotlib==3.10.9
+nbclient==0.11.0
+numpy==1.26.4
+pandas==2.0.3
+scikit-learn==1.7.2
+scipy==1.15.3
+tokenizers==0.22.2
+torch==2.6.0
+transformer-lens==2.18.0
+transformers==4.57.6

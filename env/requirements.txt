@@ -1,0 +1,20 @@
+# Versions used to run every notebook end to end (Python 3.10, CPU), last updated 2026-11-24.
+# Each lab README pins the subset it needs; this file installs everything for Chapters 1-10.
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
+scipy==1.15.3
+matplotlib==3.10.9
+nbclient==0.11.0
+ipykernel==7.3.0
+openpyxl==3.1.5      # Online Retail II (Ch 6, 7, 10)
+xlrd==2.0.2          # UCI Default of Credit Card Clients (Ch 8)
+torch==2.6.0         # Ch 4 lab 4
+interpret-core==0.7.8  # Ch 5
+lime==0.2.0.1        # Ch 7
+anchor-exp==0.0.2.0  # Ch 7
+shap==0.49.1         # Ch 8 (last release supporting Python 3.10)
+dice-ml==0.12        # Ch 9
+raiutils==0.4.3      # dependency of dice-ml
+seaborn==0.13.2       # Ch 23
+hermai==0.1.8         # Ch 21, 23 (maintained by the book's author; see the disclosure in the book)
