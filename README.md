@@ -29,4 +29,9 @@ The book explains the ideas; this repository is where you try them. Every chapte
 
 ## License
 
-The licenses for this repository have not been chosen yet. Until they are announced here, all rights are reserved, and you may read and run the labs for your own study and teaching. Datasets and models keep their own licenses (see `data/LICENSES.md`).
+This repository uses two licenses:
+
+- **Code** (Python files, the code cells of the notebooks, and the environment files in `env/`) is under the MIT License. See `LICENSE`.
+- **Text and templates** (the lab READMEs, the Markdown cells of the notebooks, the data cards, the tool pages and the portfolio templates) are under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See `LICENSE-CC-BY-4.0.txt`. To credit the material, write: "From the companion labs of *Explainable AI in Practice* by Sadi Evren Seker, https://github.com/BilgisayarKavramlari/xai-book-labs, CC BY 4.0."
+
+Datasets, pretrained models and third-party files keep their own licenses, which are listed in `data/LICENSES.md` and in the files that come with them (for example `labs/ch14-why-language-models-are-hard-to-explain/lab3/NOTICE.md`). These licenses cover the companion repository only, not the book itself.
