@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use these labs, please cite the book they accompany."
+title: "Explainable AI in Practice: Labs"
+type: software
+authors:
+  - family-names: Seker
+    given-names: Sadi Evren
+license: MIT
+repository-code: "https://github.com/BilgisayarKavramlari/xai-book-labs"
+keywords:
+  - explainable AI
+  - XAI
+  - interpretable machine learning
+  - SHAP
+  - LIME
+  - counterfactual explanations
+  - LLM interpretability
+  - responsible AI
+preferred-citation:
+  type: book
+  title: "Explainable AI in Practice: Methods, Tools and Accountability, from Credit Scores to Language Models"
+  authors:
+    - family-names: Seker
+      given-names: Sadi Evren
+  publisher:
+    name: OptiWisdom LLC
+  year: 2026
+  isbn: "9798237336610"
+  url: "https://books2read.com/u/K90dqV"
