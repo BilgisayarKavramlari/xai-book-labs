@@ -2,6 +2,34 @@
 
 Hands-on labs for the book *Explainable AI in Practice: Methods, Tools and Accountability, from Credit Scores to Language Models* by Sadi Evren Seker.
 
+## About the book
+
+| | |
+|---|---|
+| Title | *Explainable AI in Practice: Methods, Tools and Accountability, from Credit Scores to Language Models* |
+| Author | Sadi Evren Seker |
+| Publisher | OptiWisdom LLC, 2026 |
+| ISBN (ebook) | 9798237336610 |
+| Get the ebook | [Apple Books, Kobo, Barnes & Noble and other stores](https://books2read.com/u/K90dqV) · [OnKupon (PDF)](https://onkupon.com/product/explainable-ai-in-practice-book/) |
+| Turkish edition | *Uygulamalı Açıklanabilir Yapay Zekâ: Kredi Skorlarından Dil Modellerine Yöntemler, Araçlar ve Hesap Verebilirlik* · [stores](https://books2read.com/u/6QyRqW) · [OnKupon (PDF)](https://onkupon.com/product/uygulamali-aciklanabilir-yapay-zeka-kitap/) |
+
+The book is a textbook on explaining machine learning systems and on testing whether those explanations are faithful, stable and useful: 27 chapters in seven parts, from glass-box models, SHAP, LIME, counterfactuals and saliency to the interpretability of large language models, evaluation, law and audits, and explainability in production. It is written for fourth-year university courses, executive education and readers on their own.
+
+### How to cite
+
+```bibtex
+@book{seker2026xai,
+  author    = {Seker, Sadi Evren},
+  title     = {Explainable AI in Practice: Methods, Tools and Accountability, from Credit Scores to Language Models},
+  publisher = {OptiWisdom LLC},
+  year      = {2026},
+  isbn      = {9798237336610},
+  url       = {https://books2read.com/u/K90dqV}
+}
+```
+
+GitHub's "Cite this repository" button uses `CITATION.cff`, which points to the book.
+
 The book explains the ideas; this repository is where you try them. Every chapter has two to four labs. At least one lab per chapter needs no code: it uses a web tool or an interactive page you only read and click. The other labs are Jupyter notebooks that run on a laptop or in a free hosted notebook service.
 
 ## How the repository is organized
